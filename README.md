@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
-<h3 align="center">Web/App développere</h3>
+<h3 align="center">Web/App développer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
